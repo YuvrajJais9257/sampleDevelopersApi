@@ -1,0 +1,8 @@
+{
+    "developers": [
+        { "name": "Yuvraj", "age": 22 },
+        { "name": "Tenzin", "age": 24 },
+        { "name": "Ashish", "age": 24 },
+        { "name": "Sushant", "age": 21 }
+    ]
+}
